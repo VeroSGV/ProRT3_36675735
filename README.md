@@ -1,3 +1,7 @@
+La base de datos creada se encuentra en la carpeta base de datos/base de datos
+
+
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
